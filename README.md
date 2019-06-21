@@ -1,4 +1,4 @@
-= MCP23017 library for Arduino =
+= MCP23017   Arduino library
 
 This is an Arduino library for the ExControl Industrial I2C IO expanderm or  MCP23017, 16-Bit Remote Bidirectional I/O Port:
 You can use it with ExControl Industrial Extensión I2C IO or other compatible devices.
